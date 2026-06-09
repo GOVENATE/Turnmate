@@ -1,6 +1,6 @@
 # 🕐 Turnmate - Sistema de Gestión de Turnos
 
-> Una aplicación móvil multiplataforma desarrollada con React Native y Expo para la gestión eficiente de turnos de trabajo, construida como proyecto final de Aplicaciones Móviles en la UAQ.
+> Una aplicación móvil multiplataforma desarrollada con React Native y Expo para la gestión eficiente de turnos de trabajo
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.81.5-blue?style=flat-square)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-54.0.25-black?style=flat-square)](https://expo.dev/)
@@ -545,23 +545,13 @@ npm install
 ## 📞 Soporte
 
 Para reportar problemas o sugerencias:
-- 📧 Email: [tu-email@example.com]
-- 🐛 Issues: [GitHub Issues](github.com/tu-repo/issues)
-- 💬 Discussiones: [GitHub Discussions](github.com/tu-repo/discussions)
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia **MIT**. Ver archivo [LICENSE](LICENSE) para más detalles.
+- 📧 Email: kalonso276@gmail.com
 
 ---
 
 ## 👨‍💻 Autores
 
-- **Desarrolladores**: Equipo de Aplicaciones Móviles UAQ
-- **Institución**: Universidad Autónoma de Querétaro (UAQ)
-- **Materia**: Aplicaciones Móviles - Semestre 6
+- **Desarrolladores**: Govenate
 
 ---
 
